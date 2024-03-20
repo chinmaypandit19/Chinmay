@@ -1,3 +1,9 @@
 hello
 good
+<<<<<<< HEAD
 stashed
+=======
+i am chinmay
+>>>>>>> featurebranch
+hello good afternoon
+
